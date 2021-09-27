@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/drag-and-drop-table/static/css/main.406bb8c5.chunk.css",
+    "main.js": "/drag-and-drop-table/static/js/main.dee80bf5.chunk.js",
+    "main.js.map": "/drag-and-drop-table/static/js/main.dee80bf5.chunk.js.map",
+    "runtime-main.js": "/drag-and-drop-table/static/js/runtime-main.81f74be1.js",
+    "runtime-main.js.map": "/drag-and-drop-table/static/js/runtime-main.81f74be1.js.map",
+    "static/js/2.dfbd8696.chunk.js": "/drag-and-drop-table/static/js/2.dfbd8696.chunk.js",
+    "static/js/2.dfbd8696.chunk.js.map": "/drag-and-drop-table/static/js/2.dfbd8696.chunk.js.map",
+    "index.html": "/drag-and-drop-table/index.html",
+    "static/css/main.406bb8c5.chunk.css.map": "/drag-and-drop-table/static/css/main.406bb8c5.chunk.css.map",
+    "static/js/2.dfbd8696.chunk.js.LICENSE.txt": "/drag-and-drop-table/static/js/2.dfbd8696.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81f74be1.js",
+    "static/js/2.dfbd8696.chunk.js",
+    "static/css/main.406bb8c5.chunk.css",
+    "static/js/main.dee80bf5.chunk.js"
+  ]
+}
